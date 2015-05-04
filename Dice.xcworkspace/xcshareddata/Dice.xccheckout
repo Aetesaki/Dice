@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28E3B185-7D59-4ECF-8215-1963FCD69381</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dice</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>78D7DCDDDB3E668EAF0A95D35286BEF6AB5D556B</key>
+		<string>https://github.com/Aetesaki/Dice.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dice.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>78D7DCDDDB3E668EAF0A95D35286BEF6AB5D556B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Aetesaki/Dice.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>78D7DCDDDB3E668EAF0A95D35286BEF6AB5D556B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>78D7DCDDDB3E668EAF0A95D35286BEF6AB5D556B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dice</string>
+		</dict>
+	</array>
+</dict>
+</plist>

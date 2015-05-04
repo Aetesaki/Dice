@@ -71,7 +71,7 @@ public class DieType {
             rolls.append(rollDie())
             if mustConvert() {
                 //  convert value
-                rolls[0] = faceValues[rolls[0]]
+                rolls[0] = faceValues[rolls[0] - 1]
             }
             //  sum rolled value
             sumRolls = rolls[0]
@@ -84,13 +84,12 @@ public class DieType {
             if mustConvert() {
                 //  convert value
                 for value in 0..<times {
-                    rolls[value] = faceValues[rolls[value]]
+                    rolls[value] = faceValues[rolls[value] - 1]
                 }
             }
             //  sum rolled value
             sumRolls = rolls.reduce(0, combine: {$0 + $1})
         }
     }
-    
-    
 }
+
