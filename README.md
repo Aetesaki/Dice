@@ -1,7 +1,7 @@
 # Dice
 A Swift class for dice of any size with or without custom values
 
-Feel free to use this in your work, as long as you attribute the author, as required by Creative Commons Attribution 4.0 International License.
+Feel free to use this in your work, as long as you attribute the author, as required by GNU General Public License v3.0
 
 
 #Usage
